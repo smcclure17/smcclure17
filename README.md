@@ -1,6 +1,6 @@
 ## Sean McClure
 
-Software and data [@Act Now Coalition](https://github.com/covid-projections)
+Software and data [@Act Now Coalition](https://github.com/act-now-coalition)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcclure17&layout=compact&exclude_repo=smcclure17.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
