@@ -1,6 +1,6 @@
 ## Sean McClure
 
-Data and software [@Boston Globe](https://github.com/BostonGlobe)
+Data [@Boston Globe](https://github.com/BostonGlobe)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-eweqr2ve5-smcclure17.vercel.app/api/top-langs/?username=smcclure17&layout=compact&exclude_repo=smcclure17.github.io,github-readme-stats,mobilize-automation" />
