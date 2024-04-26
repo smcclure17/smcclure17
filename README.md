@@ -1,6 +1,6 @@
 ## Sean McClure
 
-Data [@Boston Globe](https://github.com/BostonGlobe)
+Data collection and development at [@Boston Globe](https://github.com/BostonGlobe)
 
 Maintainer for https://covidactnow.org ([@Act Now Coalition](https://github.com/act-now-coalition))
 
